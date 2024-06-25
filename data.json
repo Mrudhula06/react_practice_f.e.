@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "names": "MRUDHULA SHRI M",
+      "email": "mrudhulashrim.21cse@kongu.edu",
+      "password": "1234567",
+      "phoneNumber": "01234567898",
+      "address": "272A, VGV VIJEY GARDEN,",
+      "dob": "2004-04-06",
+      "id": 1
+    },
+    {
+      "names": "MYTHILI S",
+      "email": "mythilis.21cse@kongu.edu",
+      "password": "12345",
+      "phoneNumber": "09944682438",
+      "address": "nasiyanur erode",
+      "dob": "2004-06-22",
+      "id": 2
+    }
+  ]
+}
